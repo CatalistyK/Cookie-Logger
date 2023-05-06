@@ -6,4 +6,4 @@
 🌐Follow me on youtube: Catalistyc🌐
 
 ⚙️Tutorial on Youtube⚙️
-❗Requirements: Python❗
+❗Requirements: Python and discord❗
